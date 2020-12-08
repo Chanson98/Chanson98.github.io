@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+deploy:
+  type: git
+  repository: https://github.com/Chanson98/Chanson98.github.io.git
+  branch: master
